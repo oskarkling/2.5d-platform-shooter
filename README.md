@@ -7,3 +7,5 @@ Player input controls for PC/Linux.
 The game uses Unitys navmesh pathfinding for Enemies. 
 Currently Ive made simpel Unity 3d models for map, obstacles, weapons, player, enemies. 
 Blender models will be added later. Simple particle effects are used
+
+I made a WEB build so you can try the game at https://simmer.io/@klingen/demo-shooter-alpha-v1
