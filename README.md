@@ -8,4 +8,4 @@ The game uses Unitys navmesh pathfinding for Enemies.
 Currently Ive made simpel Unity 3d models for map, obstacles, weapons, player, enemies. 
 Blender models will be added later. Simple particle effects are used
 
-I made a WEB build so you can try the latest version of the game at https://simmer.io/@klingen/shooterv2
+I made a WEB build so you can try the latest version of the game at https://simmer.io/@klingen/shooter-v4
